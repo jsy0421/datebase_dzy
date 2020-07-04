@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/14207/Desktop/market/datebase_dzy/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/14207/Desktop/market/datebase_dzy/mchange-commons-java-0.2.3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
